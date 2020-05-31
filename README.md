@@ -7,6 +7,8 @@ Operating System: Ubuntu 20.04 LTS
 Chrome Driver: v83.0.4103.39
 Firefox Driver: v0.26.0
 ```
+##### Configuration
+`/src/main/resources/config.properties`
 
 ##### Build
 `mvn clean install`
